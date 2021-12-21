@@ -1,0 +1,15 @@
+{
+  "customFolder": "Day Planners",
+  "mode": 0,
+  "mermaid": true,
+  "notesToDates": [
+    {
+      "date": "Mon Nov 29 2021"
+    }
+  ],
+  "completePastItems": true,
+  "circularProgress": true,
+  "nowAndNextInStatusBar": true,
+  "showTaskNotification": true,
+  "timelineZoomLevel": 4
+}
